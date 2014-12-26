@@ -1,4 +1,4 @@
-#include "../lib/common.h"
+#include "common.h"
 
 void serverHandle(int sockfd) {
     while(true) {

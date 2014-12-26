@@ -1,4 +1,4 @@
-#include "../lib/common.h"
+#include "common.h"
 
 #define IP "192.168.85.155"
 

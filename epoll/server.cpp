@@ -1,4 +1,4 @@
-#include "../lib/common.h"
+#include "common.h"
 #include <sys/epoll.h>
 
 #define EPOLL_SIZE 500

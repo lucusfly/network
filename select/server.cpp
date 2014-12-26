@@ -1,4 +1,4 @@
-#include "../lib/common.h"
+#include "common.h"
 #include <list>
 
 using std::list;
