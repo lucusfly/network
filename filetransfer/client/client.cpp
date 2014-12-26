@@ -37,10 +37,11 @@ void readfile(int sockfd, char *filename) {
         readsize += sp.getlen();
         if (tu.getsec() - lasttime > 1) {
             lasttime = tu.getsec();
-            printf("speed:%lfM\n", readsize/tu.getsec()/1000000);
+            printf("speed:%.2lfM\n", readsize/tu.getsec()/1000000);
             //cout << "speed:" << readsize/tu.getsec() << endl;
         }
     }
+    printf("speed:%.2lfM\n", readsize/tu.getsec()/1000000);
 }
 
 void clientHandle(int sockfd, SockType st, char *filename) {
