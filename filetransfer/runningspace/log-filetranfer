@@ -1,0 +1,385 @@
+12-26 15:12:44 [TRACE][server.cpp:147] client connection 192.168.85.155:20501
+12-26 15:17:50 [TRACE][server.cpp:147] client connection 192.168.85.155:44398
+12-26 15:18:02 [TRACE][server.cpp:147] client connection 192.168.85.155:45472
+12-26 15:18:03 [TRACE][server.cpp:160] client closed
+12-26 15:18:21 [TRACE][server.cpp:147] client connection 192.168.85.155:46930
+12-26 15:18:25 [TRACE][server.cpp:160] client closed
+12-26 15:20:06 [TRACE][server.cpp:147] client connection 192.168.85.155:55345
+12-26 15:20:10 [TRACE][server.cpp:159] close client
+12-26 15:20:57 [TRACE][server.cpp:147] client connection 192.168.85.155:59397
+12-26 15:21:08 [TRACE][server.cpp:159] close client
+12-26 15:39:56 [TRACE][server.cpp:147] client connection 192.168.85.155:20251
+12-26 15:39:56 [TRACE][server.cpp:162] got msg:.ÿÿÿÿÿÿÿ
+12-26 15:40:23 [TRACE][server.cpp:159] close client
+12-26 15:46:02 [TRACE][server.cpp:147] client connection 192.168.85.155:44810
+12-26 15:46:02 [TRACE][server.cpp:162] got msg:.
+12-26 15:46:23 [TRACE][server.cpp:159] close client
+12-26 15:46:39 [TRACE][server.cpp:147] client connection 192.168.85.155:47251
+12-26 15:46:39 [TRACE][server.cpp:162] got msg:.
+12-26 15:48:35 [TRACE][server.cpp:147] client connection 192.168.85.155:55342
+12-26 15:48:35 [TRACE][server.cpp:162] got msg:.
+12-26 15:49:05 [TRACE][server.cpp:159] close client
+12-26 15:52:15 [TRACE][server.cpp:147] client connection 192.168.85.155:10893
+12-26 15:52:15 [TRACE][server.cpp:162] got msg:.
+12-26 15:53:21 [TRACE][server.cpp:149] client connection 192.168.85.155:15647
+12-26 15:53:21 [TRACE][server.cpp:164] got msg:.
+12-26 15:53:31 [TRACE][server.cpp:161] close client
+12-26 15:53:32 [TRACE][server.cpp:149] client connection 192.168.85.155:16577
+12-26 15:53:32 [TRACE][server.cpp:164] got msg:.
+12-26 15:53:40 [TRACE][server.cpp:161] close client
+12-26 15:53:40 [TRACE][server.cpp:149] client connection 192.168.85.155:17164
+12-26 15:53:40 [TRACE][server.cpp:164] got msg:.
+12-26 15:53:44 [TRACE][server.cpp:161] close client
+12-26 15:54:24 [TRACE][server.cpp:149] client connection 192.168.85.155:20279
+12-26 15:54:24 [TRACE][server.cpp:164] got msg:.
+12-26 15:55:11 [TRACE][server.cpp:161] close client
+12-26 15:58:14 [TRACE][server.cpp:149] client connection 192.168.85.155:35991
+12-26 15:58:14 [TRACE][server.cpp:164] got msg:.
+12-26 15:58:21 [TRACE][server.cpp:161] close client
+12-26 16:00:57 [TRACE][server.cpp:149] client connection 192.168.85.155:47386
+12-26 16:00:57 [TRACE][server.cpp:164] got msg:.
+12-26 16:00:57 [TRACE][server.cpp:61] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:00:57 [TRACE][server.cpp:161] close client
+12-26 16:02:52 [TRACE][server.cpp:147] client connection 192.168.85.155:52005
+12-26 16:02:52 [TRACE][server.cpp:162] got msg:.
+12-26 16:02:52 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:02:52 [TRACE][server.cpp:159] close client
+12-26 16:02:55 [TRACE][server.cpp:147] client connection 192.168.85.155:52193
+12-26 16:02:55 [TRACE][server.cpp:162] got msg:.
+12-26 16:02:55 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:02:55 [TRACE][server.cpp:159] close client
+12-26 16:03:12 [TRACE][server.cpp:147] client connection 192.168.85.155:53099
+12-26 16:03:12 [TRACE][server.cpp:162] got msg:.
+12-26 16:03:12 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:03:12 [TRACE][server.cpp:159] close client
+12-26 16:03:21 [TRACE][server.cpp:147] client connection 192.168.85.155:53680
+12-26 16:03:21 [TRACE][server.cpp:162] got msg:c++
+12-26 16:03:21 [TRACE][server.cpp:59] write dir info:d	4096	lib
+n	73517	run
+n	15	config.ini
+n	367	main.cpp
+n	136	makefile
+n	891	search_ranking_conf.config
+d	4096	string
+n	10096	a.out
+n	410	test.cpp
+n	1788	heap.cpp
+
+
+12-26 16:03:21 [TRACE][server.cpp:159] close client
+12-26 16:03:28 [TRACE][server.cpp:147] client connection 192.168.85.155:54086
+12-26 16:03:28 [TRACE][server.cpp:162] got msg:c++/lib
+12-26 16:03:28 [TRACE][server.cpp:59] write dir info:n	528	TimeUtil.h
+n	1101	stringCommon.h
+n	7453	static_hash_vector.h
+n	2498	ini.cpp
+n	586	fileloader.h
+n	2890	ini.h
+n	901	stringCommon.cpp.bak
+n	2140	hash_wrap.h
+n	528	timeutil.h
+n	21953	nokey_static_hash.h
+n	2692	fileloader.cpp
+
+
+12-26 16:03:28 [TRACE][server.cpp:159] close client
+12-26 16:03:50 [TRACE][server.cpp:147] client connection 192.168.85.155:55284
+12-26 16:03:50 [TRACE][server.cpp:162] got msg:c++/lib/nokey_static_hash.h
+12-26 16:03:59 [TRACE][server.cpp:159] close client
+12-26 16:04:21 [TRACE][server.cpp:147] client connection 192.168.85.155:56671
+12-26 16:04:21 [TRACE][server.cpp:162] got msg:.
+12-26 16:04:21 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:04:21 [TRACE][server.cpp:159] close client
+12-26 16:04:38 [TRACE][server.cpp:147] client connection 192.168.85.155:57410
+12-26 16:04:38 [TRACE][server.cpp:162] got msg:new.txt
+12-26 16:06:39 [TRACE][server.cpp:148] client connection 192.168.85.155:63794
+12-26 16:06:39 [TRACE][server.cpp:163] got msg:new.txt
+12-26 16:07:31 [TRACE][server.cpp:148] client connection 192.168.85.155:7673
+12-26 16:07:31 [TRACE][server.cpp:163] got msg:.
+12-26 16:07:31 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:07:31 [TRACE][server.cpp:160] close client
+12-26 16:07:36 [TRACE][server.cpp:148] client connection 192.168.85.155:8023
+12-26 16:07:36 [TRACE][server.cpp:163] got msg:new.txt
+12-26 16:07:36 [WARN][server.cpp:23] open dir error:Not a directory
+12-26 16:07:36 [TRACE][server.cpp:160] close client
+12-26 16:07:40 [TRACE][server.cpp:148] client connection 192.168.85.155:8342
+12-26 16:07:40 [TRACE][server.cpp:163] got msg:new.txt
+12-26 16:07:52 [TRACE][server.cpp:148] client connection 192.168.85.155:9319
+12-26 16:07:52 [TRACE][server.cpp:163] got msg:gtest-1.7.0.zip
+12-26 16:08:43 [TRACE][server.cpp:148] client connection 192.168.85.155:13065
+12-26 16:08:43 [TRACE][server.cpp:163] got msg:.
+12-26 16:08:43 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:08:43 [TRACE][server.cpp:160] close client
+12-26 16:08:49 [TRACE][server.cpp:148] client connection 192.168.85.155:13427
+12-26 16:08:49 [TRACE][server.cpp:163] got msg:network
+12-26 16:08:49 [TRACE][server.cpp:59] write dir info:n	1287	server.cpp
+n	10972	server
+n	10558	client
+n	134	Makefile
+n	271	common.h
+n	1184	client.cpp
+
+
+12-26 16:08:49 [TRACE][server.cpp:160] close client
+12-26 16:09:07 [TRACE][server.cpp:148] client connection 192.168.85.155:14753
+12-26 16:09:07 [TRACE][server.cpp:163] got msg:work
+12-26 16:09:07 [TRACE][server.cpp:59] write dir info:d	4096	glog-0.3.3
+n	2242560	glog-0.3.3.tar
+
+
+12-26 16:09:07 [TRACE][server.cpp:160] close client
+12-26 16:09:18 [TRACE][server.cpp:148] client connection 192.168.85.155:15597
+12-26 16:09:18 [TRACE][server.cpp:163] got msg:work/gglog-0.3.3
+12-26 16:09:18 [WARN][server.cpp:23] open dir error:No such file or directory
+12-26 16:09:18 [TRACE][server.cpp:160] close client
+12-26 16:09:21 [TRACE][server.cpp:148] client connection 192.168.85.155:15777
+12-26 16:09:21 [TRACE][server.cpp:163] got msg:work/glog-0.3.3
+12-26 16:09:21 [TRACE][server.cpp:59] write dir info:n	3117	ChangeLog
+d	4096	m4
+n	35876	aclocal.m4
+n	2774	compile
+n	237	README
+n	283680	ltmain.sh
+n	0	NEWS
+n	3215	COPYING
+n	3495	mkinstalldirs
+n	994	README.windows
+d	4096	vsprojects
+n	23	AUTHORS
+n	2719	google-glog.sln
+n	11135	missing
+n	17867	depcomp
+n	88743	Makefile.in
+n	13620	install-sh
+d	4096	packages
+d	4096	doc
+n	44593	config.guess
+n	218	libglog.pc.in
+n	32724	config.sub
+d	4096	src
+n	12193	INSTALL
+n	607155	configure
+n	7831	configure.ac
+n	10331	Makefile.am
+
+
+12-26 16:09:21 [TRACE][server.cpp:160] close client
+12-26 16:09:28 [TRACE][server.cpp:148] client connection 192.168.85.155:16273
+12-26 16:09:28 [TRACE][server.cpp:163] got msg:work/glog-0.3.3.tar
+12-26 16:09:56 [TRACE][server.cpp:148] client connection 192.168.85.155:18324
+12-26 16:09:56 [TRACE][server.cpp:163] got msg:.
+12-26 16:09:56 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:09:56 [TRACE][server.cpp:160] close client
+12-26 16:10:01 [TRACE][server.cpp:148] client connection 192.168.85.155:18693
+12-26 16:10:01 [TRACE][server.cpp:163] got msg:c++
+12-26 16:10:01 [TRACE][server.cpp:59] write dir info:d	4096	lib
+n	73517	run
+n	15	config.ini
+n	367	main.cpp
+n	136	makefile
+n	891	search_ranking_conf.config
+d	4096	string
+n	10096	a.out
+n	410	test.cpp
+n	1788	heap.cpp
+
+
+12-26 16:10:01 [TRACE][server.cpp:160] close client
+12-26 16:10:06 [TRACE][server.cpp:148] client connection 192.168.85.155:19036
+12-26 16:10:06 [TRACE][server.cpp:163] got msg:c++/run
+12-26 16:10:06 [WARN][server.cpp:23] open dir error:Not a directory
+12-26 16:10:06 [TRACE][server.cpp:160] close client
+12-26 16:10:09 [TRACE][server.cpp:148] client connection 192.168.85.155:19197
+12-26 16:10:09 [TRACE][server.cpp:163] got msg:c++/run
+12-26 16:15:55 [TRACE][server.cpp:148] client connection 192.168.85.155:45107
+12-26 16:15:55 [TRACE][server.cpp:163] got msg:.
+12-26 16:15:55 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:15:55 [TRACE][server.cpp:160] close client
+12-26 16:15:59 [TRACE][server.cpp:148] client connection 192.168.85.155:45389
+12-26 16:15:59 [TRACE][server.cpp:163] got msg:c++
+12-26 16:15:59 [TRACE][server.cpp:59] write dir info:d	4096	lib
+n	73517	run
+n	15	config.ini
+n	367	main.cpp
+n	136	makefile
+n	891	search_ranking_conf.config
+d	4096	string
+n	10096	a.out
+n	410	test.cpp
+n	1788	heap.cpp
+
+
+12-26 16:15:59 [TRACE][server.cpp:160] close client
+12-26 16:16:06 [TRACE][server.cpp:148] client connection 192.168.85.155:45946
+12-26 16:16:06 [TRACE][server.cpp:163] got msg:c++/run
+12-26 16:17:50 [TRACE][server.cpp:147] client connection 192.168.85.155:53579
+12-26 16:17:50 [TRACE][server.cpp:162] got msg:.
+12-26 16:17:50 [TRACE][server.cpp:110] handle type:1, len:1
+12-26 16:17:50 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:17:50 [TRACE][server.cpp:159] close client
+12-26 16:20:02 [TRACE][server.cpp:147] client connection 192.168.85.155:63804
+12-26 16:20:02 [TRACE][server.cpp:162] got msg:.
+12-26 16:20:02 [TRACE][server.cpp:110] handle type:1, len:1
+12-26 16:20:02 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:20:02 [TRACE][server.cpp:159] close client
+12-26 16:20:06 [TRACE][server.cpp:147] client connection 192.168.85.155:64080
+12-26 16:20:06 [TRACE][server.cpp:162] got msg:.
+12-26 16:20:06 [TRACE][server.cpp:110] handle type:1, len:1
+12-26 16:20:06 [TRACE][server.cpp:59] write dir info:d	4096	c++
+d	4096	work
+d	4096	svn
+d	4096	mphf
+d	4096	github
+n	706	new.txt
+d	4096	python
+d	4096	gtest-1.7.0
+n	1164254	gtest-1.7.0.zip
+d	4096	thriftTest
+d	4096	hadoop_job
+d	4096	network
+
+
+12-26 16:20:06 [TRACE][server.cpp:159] close client
